@@ -1,9 +1,3 @@
-Below is a **clean, professional README.md** you can directly use for your GitHub repository.
-It is **CV-ready**, detailed, and strictly aligned with **your paper and notebook**, without unnecessary emojis or fluff.
-Technical claims and results are grounded in your paper .
-
----
-
 # CIC IoT – Multi-Class Intrusion Detection for Industrial IoT Networks
 
 ## Project Overview
