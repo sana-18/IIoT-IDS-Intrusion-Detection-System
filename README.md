@@ -4,6 +4,7 @@
 
 This repository presents a **multi-class Intrusion Detection System (IDS)** for **Industrial Internet of Things (IIoT)** networks.
 The project focuses on detecting and classifying **multiple IoT attack types** using a rigorous **machine learning and deep learning pipeline**, combining advanced preprocessing, exploratory data analysis (EDA), feature selection, and a comparative study of classical ML, gradient boosting, and neural network models.
+This project was completed as part of the Big Data Analytics module at the National Institute of Posts & Telecommunications (INPT), Rabat.
 
 The work is based on an academic research study and a complete experimental notebook, designed to be **reproducible**, **scalable**, and **industry-oriented**.
 
