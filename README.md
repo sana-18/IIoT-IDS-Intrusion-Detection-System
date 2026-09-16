@@ -1,4 +1,4 @@
-# CIC IoT – Multi-Class Intrusion Detection for Industrial IoT Networks
+# CIC IoT - Multi-Class Intrusion Detection for Industrial IoT Networks
 
 ## Project Overview
 
